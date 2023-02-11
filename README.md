@@ -6,13 +6,9 @@
 A new career in Singapore is to conbine the consulting experiense and application scenarios in China with global digital development and technology.
 
 ## Modules used proficiently
-:yum: Strategy: Business Strategic Planning, IT Strategy Planning
+:yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR recourse, Finance **(Completed in PRC)**
 
-:hugs: HR recourse
-
-:stuck_out_tongue: Finance
-
-:stuck_out_tongue_winking_eye: **Digital transformation (In-Process in NUS)**
+:stuck_out_tongue_winking_eye: **Digital transformation (In-Progress in NUS)**
 
 ## Tips
 :100: A newcomer in CS
