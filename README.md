@@ -1,3 +1,5 @@
+![front](/tem_pic/front_pic.png)
+
 ## Chucky
 :farmer: As a 7yrs management consuting working experience consultant in PRC, serverd plenty of Chinese national companies, including ...
 
