@@ -1,22 +1,28 @@
 ![front](/tem_pic/front_pic.png)
 
-## Chucky
-:farmer: As a 7yrs management consuting working experience consultant in PRC, serverd plenty of Chinese national companies, including ...
+### Me
+:farmer: A 7yrs management consuting working experience partner in PRC ...
 
 :teacher: A student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
-A new career in Singapore is to conbine the consulting experiense and application scenarios in China with global digital development and technology.
-
-## Modules used proficiently
+### Modules used proficiently
 :yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR recourse, Finance **(Completed in PRC)**
 
 :stuck_out_tongue_winking_eye: **Digital transformation (In-Progress in NUS)**
 
-## Tips
+### Tips
 :100: A newcomer in CS
 
 Coding expereince: :boom: "Hello world" level :boom:
 
 Will be focus on: :sweat_drops:	**Data science and Business analysis**
 
+  > Conbine the consulting experiense and application scenarios in China with global digital development and technology.
+
 :cake:	Hope to communicate.
+
+### Currently learning (Updated monthly: Feb 2023)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
