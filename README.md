@@ -3,7 +3,7 @@
 
 :teacher: A student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
-A new career in Singapore is to conbine the consulting experiense and application scenarios in China with global digital and technology.
+A new career in Singapore is to conbine the consulting experiense and application scenarios in China with global digital development and technology.
 
 ## Modules used proficiently
 :yum: Strategy: Business Strategic Planning, IT Strategy Planning
