@@ -1,14 +1,14 @@
 ![front](/tem_pic/front_pic.png)
 
-### Me
-:farmer: A 7yrs management consuting working experience partner in PRC ...
+### Me :scorpius: :rainbow_flag:
+:farmer: A 7yrs management consuting working experience partner in :cn: ...
 
 :teacher: A student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
 ### Modules used proficiently
-:yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR recourse, Finance **(Completed in PRC)**
+:yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR recourse, Finance **(Completed in :cn:)**
 
-:stuck_out_tongue_winking_eye: **Digital transformation (In-Progress in NUS)**
+:stuck_out_tongue_winking_eye: **Digital transformation (In-Progress in NUS :singapore:)**
 
 ### Tips
 :100: A newcomer in CS
