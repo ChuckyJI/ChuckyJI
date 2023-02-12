@@ -6,7 +6,7 @@
 :teacher: Student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
 ### Modules used proficiently
-:yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR management, Finance and investment**(Completed in :cn:)**
+:yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR management, Finance and investment **(Completed in :cn:)**
 
 :stuck_out_tongue_winking_eye: **Digital transformation (In-Progress in NUS :singapore:)**
 
