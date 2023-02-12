@@ -1,9 +1,9 @@
 ![front](/tem_pic/front_pic.png)
 
 ### :rainbow: Me
-:farmer: As a 7yrs management consuting working experience partner in :cn: ...
+:farmer: 7yrs management consuting working experience partner in :cn: ...
 
-:teacher: A student tutor in the School of Data Science, Zhejiang University of Finance and Economics
+:teacher: Student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
 ### Modules used proficiently
 :yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR recourse, Finance **(Completed in :cn:)**
