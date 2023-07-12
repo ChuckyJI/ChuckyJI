@@ -1,7 +1,7 @@
 ![front](/tem_pic/front_pic.png)
 
 ### :rainbow: Me
-:farmer: 7yrs management consuting working experience partner in :cn: ...
+:farmer: 7yrs management consulting working experience partner in :cn: ...
 
 :teacher: Student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
