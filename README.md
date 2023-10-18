@@ -19,7 +19,7 @@ Will be focus on: :sweat_drops:	**Data science and Business analysis**
 
 :cake:	Hope to communicate.
 
-### Currently learnt in Programming(Updated monthly: July 2023)
+### Currently learnt in Programming(Updated monthly: Oct 2023)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -29,7 +29,7 @@ Will be focus on: :sweat_drops:	**Data science and Business analysis**
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Currently learnt in Data Science and AI(Updated monthly: July 2023)
+### Currently learnt in Data Science and AI(Updated monthly: Oct 2023)
 ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
