@@ -1,25 +1,28 @@
 ![front](/tem_pic/front_pic.png)
 
 ### :rainbow: Me
-:farmer: 7yrs management consulting working experience partner in :cn: ...
+:farmer:  7 years of management consulting experience as a **Senior Partner**
+
+:factory_worker: 5 years of work experience in data engineering and data science as a **Principal Data Scientist**
 
 :teacher: Student tutor in the School of Data Science, Zhejiang University of Finance and Economics
 
 ### Modules used proficiently
-:yum: Strategy (Business Strategic Planning, IT Strategy Planning), HR management, Finance and investment **(Completed in :cn:)**
-
-:stuck_out_tongue_winking_eye: **Digital transformation (In-Progress in NUS :singapore:)**
+:yum: Strategy (Business Strategic Planning, IT Strategy Planning), Digital transformation
+:stuck_out_tongue_winking_eye: **Computer Science in AI and Data Science (NUS :singapore:)**
 
 ### Tips
-:100: A newcomer in CS
+:100: AI Full-stack Engineer
 
-Will be focus on: :sweat_drops:	**Data science and Business analysis**
+Will be focus on: :sweat_drops: **AI** and 	**Data science**
 
-  > Combine the consulting experience and application scenarios in China with global digital development and technology.
+  > Integrate consulting expertise and real-world application scenarios with the ongoing global digital advancements and technology..
+  > Automate daily tasks for increased efficiency, aiming for a more laid-back approach to work.
+  > Sharp business acumen and result-driven attitude.
 
-:cake:	Hope to communicate.
+:cake:	If you are interested in me, please pm me.
 
-### Currently learnt in Programming(Updated monthly: Jan 2024)
+### Currently learnt in Programming(Updated monthly: April 2024)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
