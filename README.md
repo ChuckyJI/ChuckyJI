@@ -9,6 +9,7 @@
 
 ### Modules used proficiently
 :yum: Strategy (Business Strategic Planning, IT Strategy Planning), Digital transformation
+
 :stuck_out_tongue_winking_eye: **Computer Science in AI and Data Science (NUS :singapore:)**
 
 ### Tips
@@ -16,9 +17,11 @@
 
 Will be focus on: :sweat_drops: **AI** and 	**Data science**
 
-  > Integrate consulting expertise and real-world application scenarios with the ongoing global digital advancements and technology..
-  > Automate daily tasks for increased efficiency, aiming for a more laid-back approach to work.
-  > Sharp business acumen and result-driven attitude.
+  > Integrate consulting expertise and real-world application scenarios with the ongoing global digital advancements and technology
+ 
+  > Automate daily tasks for increased efficiency, aiming for a more laid-back approach to work
+
+  > Sharp business acumen and result-driven attitude
 
 :cake:	If you are interested in me, please pm me.
 
