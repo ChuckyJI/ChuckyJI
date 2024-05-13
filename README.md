@@ -1,5 +1,3 @@
-![front](/tem_pic/front_pic.png)
-
 ### :rainbow: Me
 :farmer:  7 years of management consulting experience as a **Senior Partner**
 
