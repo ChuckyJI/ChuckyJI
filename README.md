@@ -1,5 +1,5 @@
 ### :rainbow: Me
-:farmer:  7 years of management consulting experience as a **Senior Partner**
+:farmer:  9 years of management consulting experience as a **Senior Partner**
 
 :factory_worker: 5 years of work experience in data engineering and data science as a **Principal Data Scientist**
 
